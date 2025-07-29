@@ -5,7 +5,6 @@
 *.so
 *.dylib
 
-.env
 
 # Test binary, built with `go test -c`
 *.test
@@ -52,3 +51,4 @@ common/temp
 
 
 backend/conf/model/*.yaml
+config.bat
