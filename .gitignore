@@ -52,4 +52,6 @@ common/temp
 
 backend/conf/model/*.yaml
 config.bat
+.env
+.env.*
 !.env.example
